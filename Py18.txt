@@ -1,0 +1,9 @@
+def Maths(a, b):
+ print(f"ADDING {a} + {b}")
+ print(f"SUBTRACTING {a} - {b}")
+ print(f"MULTIPLYING {a} * {b}")
+ print(f"DIVIDING {a} / {b}")
+
+
+
+Maths("5","10")
